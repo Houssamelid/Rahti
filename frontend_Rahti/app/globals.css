@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+#S{
+    background: #db2a2a;
+    color: white ;
+}
+#S:hover{
+    background:#199d3e;
+    color: white ;
+    transition: 0.5s;
+}
+
