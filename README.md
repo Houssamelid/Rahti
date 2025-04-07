@@ -51,8 +51,6 @@ Video 3 Back end  :
 
 
 
-Token git : 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
-
 
 
 Run : 
@@ -72,6 +70,7 @@ http://localhost:8000/api/properties/
 
 
 Days progress : 
+---------------
 
 - [x] Video 1
 - [x] Video 2
